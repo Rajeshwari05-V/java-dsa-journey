@@ -17,7 +17,7 @@ class prefixsum {
         }
         System.out.println("THE PREFIX SUM IS");
          for(int i = 0; i<n;i++){
-            System.out.println(nums[i]+" ");3
+            System.out.println(nums[i]+" ");
         }
 
 
